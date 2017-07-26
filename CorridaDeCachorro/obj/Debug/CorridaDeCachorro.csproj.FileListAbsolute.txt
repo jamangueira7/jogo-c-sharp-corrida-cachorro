@@ -1,0 +1,13 @@
+C:\Users\Mangueira\Documents\Visual Studio 2017\Projects\CorridaDeCachorro\CorridaDeCachorro\obj\Debug\CorridaDeCachorro.csprojResolveAssemblyReference.cache
+C:\Users\Mangueira\Documents\Visual Studio 2017\Projects\CorridaDeCachorro\CorridaDeCachorro\obj\Debug\CorridaDeCachorro.Form1.resources
+C:\Users\Mangueira\Documents\Visual Studio 2017\Projects\CorridaDeCachorro\CorridaDeCachorro\obj\Debug\CorridaDeCachorro.Properties.Resources.resources
+C:\Users\Mangueira\Documents\Visual Studio 2017\Projects\CorridaDeCachorro\CorridaDeCachorro\obj\Debug\CorridaDeCachorro.csproj.GenerateResource.Cache
+C:\Users\Mangueira\Documents\Visual Studio 2017\Projects\CorridaDeCachorro\CorridaDeCachorro\bin\Debug\CorridaDeCachorro.exe.config
+C:\Users\Mangueira\Documents\Visual Studio 2017\Projects\CorridaDeCachorro\CorridaDeCachorro\bin\Debug\CorridaDeCachorro.exe
+C:\Users\Mangueira\Documents\Visual Studio 2017\Projects\CorridaDeCachorro\CorridaDeCachorro\bin\Debug\CorridaDeCachorro.pdb
+C:\Users\Mangueira\Documents\Visual Studio 2017\Projects\CorridaDeCachorro\CorridaDeCachorro\obj\Debug\CorridaDeCachorro.exe
+C:\Users\Mangueira\Documents\Visual Studio 2017\Projects\CorridaDeCachorro\CorridaDeCachorro\obj\Debug\CorridaDeCachorro.pdb
+C:\Users\Mangueira\Documents\Visual Studio 2017\Projects\CorridaDeCachorro\CorridaDeCachorro\bin\Debug\CorridaDeCachorro.exe.manifest
+C:\Users\Mangueira\Documents\Visual Studio 2017\Projects\CorridaDeCachorro\CorridaDeCachorro\bin\Debug\CorridaDeCachorro.application
+C:\Users\Mangueira\Documents\Visual Studio 2017\Projects\CorridaDeCachorro\CorridaDeCachorro\obj\Debug\CorridaDeCachorro.exe.manifest
+C:\Users\Mangueira\Documents\Visual Studio 2017\Projects\CorridaDeCachorro\CorridaDeCachorro\obj\Debug\CorridaDeCachorro.application
